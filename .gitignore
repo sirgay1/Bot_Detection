@@ -1,0 +1,12 @@
+# Результаты запуска
+artifacts/*
+!artifacts/.gitkeep
+submission.csv
+
+# Локальные файлы Python и Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
